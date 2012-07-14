@@ -1,0 +1,10 @@
+*.DS_Store
+*.build
+build/*
+build
+Debug/*
+Debug
+*.o
+*.DSYM
+*.pbxuser
+*.perspectivev3
